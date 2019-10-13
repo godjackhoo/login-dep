@@ -1,0 +1,766 @@
+	
+		body
+  {
+	background: url(img/44.jpg) no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    left: 1;
+    background-size: cover;
+
+
+  }
+
+
+
+.om1
+{          background: #000000;
+    height: auto;
+    width: 555px;
+    margin:50px auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 0px 0px 12px 2px black;
+    height: 553px;
+
+}
+
+
+
+
+.text
+{
+	transition: .7s;
+    margin: auto;
+    width: 300px;
+    background: #ff000000;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 10px;
+    color: #0592ff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: t;
+    animation-duration: 4s;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 22px;
+}
+
+
+
+.pas
+{
+	transition: .7s;
+    width: 300px;
+    background: #ff000000;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: pas;
+    animation-duration: 2s;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 22px;
+
+
+}
+
+
+button
+{
+    transition: .7s;
+    width: 300px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 55px 1px;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: bo;
+    animation-duration: 3s;
+    position: relative;
+    top: 0px;
+    left: 0px;
+        box-shadow: 0px 0px 12px 1px #0592ff;
+
+}
+
+
+
+
+.im
+{
+	width: 90px;
+    border: 3px solid #0592ff;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    padding: 0px;
+    height: 86px;
+    position: relative;
+    top: -47px;
+    background: url(img/2.png);
+    background-size: 100% 100%;
+    animation-name: im;
+    animation-duration: 2s;
+
+}
+
+
+
+
+.tt
+{
+padding: 10px;
+width: 220px;
+background-size: red;
+animation-name: tt;
+    animation-duration: 4s;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+    height: 22px;
+    color: #fff;
+    font-style: italic;
+overflow: hidden;
+           
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes tt {
+    0%   {    
+
+           transition: .7s;
+    margin: auto;
+    width: 50px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    padding: 3px;
+    position: relative;
+    top: -314px;
+    left: 48px;
+    font-weight: bold;
+    height: 34px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 8px 2px #0592ff;
+    color:#0592ff;
+
+    }
+
+    10%  {    
+
+transition: .7s;
+    margin: auto;
+    width: 50px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    padding: 3px;
+    color: #0592ff;
+    position: relative;
+    top: -314px;
+    left: 48px;
+    font-weight: bold;
+    height: 34px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 8px 2px #0592ff;
+    color: #0592ff;
+
+
+    }
+
+    40%  {   
+
+padding: 10px;
+width: 200px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+    height: 22px;
+    color: #0592ff;
+        transition: .7s
+        background:black;
+
+}
+
+
+60%{    background: black}
+
+80%{    color:black;
+
+
+}
+
+90%{    color:#fff;
+}
+
+    100% {    transform: scale(1);}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes bo {
+    0%   {    
+
+           transition: .7s;
+    width: 64px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 55px 1px;
+    padding: 3px;
+    color: #0592ff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: bo;
+    animation-duration: 1s;
+    border-radius: 50%;
+    height: 44px;
+    position: relative;
+    left: -100px;
+    top: -201px;
+    box-shadow: 0px 0px 12px 1px #0592ff;
+
+
+    }
+
+    25%  {    
+
+
+
+transition: .7s;
+    width: 64px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 55px 1px;
+    padding: 3px;
+    color: #0592ff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: bo;
+    animation-duration: 1s;
+    border-radius: 50%;
+    height: 44px;
+    position: relative;
+    left: -100px;
+    top: -201px;
+    box-shadow: 0px 0px 12px 1px #0592ff;
+    }
+
+
+    
+
+
+
+
+
+40%{ transition: .7s;
+    width: 64px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 55px 1px;
+    padding: 3px;
+    color: #0592ff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: bo;
+    animation-duration: 1s;
+    border-radius: 50%;
+    height: 44px;
+    position: relative;
+    left: -100px;
+    top: -201px;
+    box-shadow: 0px 0px 12px 1px #0592ff;}
+
+
+50%{transition: .7s;
+    width: 64px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 55px 1px;
+    padding: 3px;
+    color: #0592ff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: bo;
+    animation-duration: 1s;
+    border-radius: 50%;
+    height: 44px;
+    position: relative;
+    left: 100px;
+    top: 30px;
+    box-shadow: 0px 0px 12px 1px #0592ff;}
+
+
+
+
+
+
+60%{transition: .7s;
+    width: 64px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 55px 1px;
+    padding: 3px;
+    color: #0592ff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: bo;
+    animation-duration: 1s;
+    border-radius: 50%;
+    height: 44px;
+    position: relative;
+    left: -100px;
+    top: 46px;
+     
+        box-shadow: 0px 0px 12px 1px #0592ff;}
+
+        80%
+        {
+        	transition: .7s;
+    width: 64px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 55px 1px;
+    padding: 3px;
+    color: #0592ff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: bo;
+    animation-duration: 1s;
+    border-radius: 50%;
+    height: 44px;
+    position: relative;
+    left: -100px;
+    top: -44px;
+        box-shadow: 0px 0px 12px 1px #0592ff;
+        }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes im {
+    0%   {    
+
+           width: 141px;
+    border: 3px solid #0592ff;
+    display: block;
+    margin: auto;
+    border-radius: 2px;
+    padding: 0px;
+    height: 10px;
+    position: relative;
+    top: 115px;
+    background: #0592ff;
+    background-size: 100% 100%;
+    transform: rotate(-9deg);
+    box-shadow: 0px 0px 12px 1px #0592ff;
+
+    }
+
+    25%  {    
+
+
+
+
+ width: 141px;
+    border: 3px solid #0592ff;
+    display: block;
+    margin: auto;
+    border-radius: 2px;
+    padding: 0px;
+    height: 10px;
+    position: relative;
+    top: 115px;
+    background: #0592ff;
+    background-size: 100% 100%;
+    transform: rotate(-9deg);
+    box-shadow: 0px 0px 12px 1px #0592ff;
+
+    }
+
+    40%  {   
+
+
+      width: 141px;
+    border: 3px solid #0592ff;
+    display: block;
+    margin: auto;
+    border-radius: 2px;
+    padding: 0px;
+    height: 10px;
+    position: relative;
+    top: 115px;
+    background: #0592ff;
+    background-size: 100% 100%;
+    transform: rotate(-9deg);
+    box-shadow: 0px 0px 12px 1px #0592ff;
+
+}
+
+
+50%{ width: 141px;
+    border: 3px solid #0592ff;
+    display: block;
+    margin: auto;
+    border-radius: 2px;
+    padding: 0px;
+    height: 2;
+    position: relative;
+    top: 115px;
+    background: #0592ff;
+    background-size: 100% 100%;
+    transform: rotate(-9deg);
+    box-shadow: 0px 0px 12px 1px #0592ff;}
+
+
+    100% {    transform: scale(1);}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes pas {
+    0%   {    
+
+transition: .7s;
+    margin: auto;
+    width: 0px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 125px;
+    position: relative;
+    top: -96px;
+    left: -69px;
+    box-shadow: 0px 0px 12px 1px #0592ff;
+
+    }
+    
+    25%  {   transition: .7s;
+    margin: auto;
+    width: 0px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+height: 125px;
+    position: relative;
+    top: -96px;
+    left: -69px;
+    box-shadow: 0px 0px 12px 1px #0592ff;
+
+}
+
+    40%  {    transition: .7s;
+    margin: auto;
+    width: 0px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    top: -96px;
+    left: -69px;
+    box-shadow: 0px 0px 12px 1px #0592ff;
+
+
+}
+50%
+{
+	transition: .7s;
+    margin: auto;
+    width: 0px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 125px;
+    position: relative;
+    top: -96px;
+    left: -69px;
+    box-shadow: 0px 0px 12px 1px #0592ff;
+}
+  
+   80% {     transition: .7s;
+width: 300px;
+    background: #ff000000;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: pas;
+    animation-duration: 3s;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 22px;
+}
+
+
+
+90%{ transition: .7s;
+    margin: auto;
+    width: 0px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 22px;
+        position: relative;
+    top: 150px;
+    left: 69px;
+    box-shadow: 0px 0px 12px 1px #0592ff;}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@keyframes t {
+
+    0%   {      width: 0px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 125px;
+    position: relative;
+    top: 72px;
+    left: 73px;
+    box-shadow: 0px 0px 12px 1px #0592ff;}
+
+
+
+
+
+
+    
+    25%  {      width: 0px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 125px;
+    position: relative;
+    top: 72px;
+    left: 73px;
+    box-shadow: 0px 0px 12px 1px #0592ff;
+    height: 122px;
+
+}
+
+
+30%
+{
+  width: 0px;
+    background: #0592ff;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 125px;
+    position: relative;
+    top: 72px;
+    left: 73px;
+    box-shadow: 0px 0px 12px 1px #0592ff;
+    height: 122px;
+}
+
+
+    50%  {  	     transition: .7s;
+    margin: auto;
+width: 300px;
+    background: #ff000000;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: t;
+    animation-duration: 4s;
+    position: relative;
+    top: 0px;
+    left: 0px;
+        height: 22px;
+
+}
+
+
+
+
+70%
+{
+
+    transition: .7s;
+    margin: auto;
+width: 300px;
+    background: #ff000000;
+    border: none;
+    border-bottom: 2px solid #0592ff;
+    margin: 29px 1px;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    animation-name: t;
+    animation-duration: 4s;
+    position: relative;
+    top: 0px;
+    left: 0px;
+
+}
+
+
+
+
+    100% {    }
+}
+
+
+::placeholder
+
+{
+
+color: #ddd;
+
+}
